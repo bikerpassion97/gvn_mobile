@@ -1,0 +1,9 @@
+{
+    "app_server_status": true,
+    "app_beta_status": false,
+    "game_version": "16.5",
+    "game_url": "https://gtaviet.net/sampapk/gvn.apk",
+    "samp_list_url": "https://gvn.dichvu360.com/sampalyn/samp_list.json",
+    "full_list_url": "https://gvn.dichvu360.com/sampalyn/full_list.json",
+    "lite_list_url": "https://gvn.dichvu360.com/sampalyn/lite_list.json"
+}
