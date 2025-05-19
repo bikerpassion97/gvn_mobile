@@ -1,0 +1,9 @@
+{
+    "app_server_status": true,
+    "app_beta_status": false,
+    "game_version": "1.0.2",
+    "game_url": "https://github.com/James00019/launcher-data/releases/download/gamedata/app-game-release.apk",
+    "samp_list_url": "https://raw.githubusercontent.com/James00019/launcher-data/refs/heads/main/samp_list.json",
+    "full_list_url": "https://raw.githubusercontent.com/James00019/launcher-data/refs/heads/main/full_list.json",
+    "lite_list_url": "https://raw.githubusercontent.com/James00019/launcher-data/refs/heads/main/lite_list.json"
+}
