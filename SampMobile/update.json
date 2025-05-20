@@ -3,7 +3,7 @@
     "app_beta_status": false,
     "game_version": "1.0.4",
     "game_url": "https://github.com/james-samp/samp-mobile/releases/download/%23game-data/app-game-release.apk",
-    "samp_list_url": "https://raw.githubusercontent.com/james-samp/samp-mobile/refs/heads/main/samp_list.json",
-    "full_list_url": "https://raw.githubusercontent.com/james-samp/samp-mobile/refs/heads/main/full_list.json",
-    "lite_list_url": "https://raw.githubusercontent.com/james-samp/samp-mobile/refs/heads/main/lite_list.json"
+    "samp_list_url": "https://raw.githubusercontent.com/bikerpassion97/gvn_mobile/refs/heads/main/SampMobile/samp_list.json",
+    "full_list_url": "https://raw.githubusercontent.com/bikerpassion97/gvn_mobile/refs/heads/main/SampMobile/full_list.json",
+    "lite_list_url": "https://raw.githubusercontent.com/bikerpassion97/gvn_mobile/refs/heads/main/SampMobile/lite_list.json"
 }
