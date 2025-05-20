@@ -1,17 +1,17 @@
 {
     "files": [
-        {
+         {
             "name": "gtaweap3.ttf",
             "path": "fonts\/gtaweap3.ttf",
             "size": "104004",
-            "url": "https://github.com/James00019/samp-mobile/raw/refs/heads/main/gtaweap3.ttf",
+            "url": "https://github.com/bikerpassion97/gvn_mobile/raw/refs/heads/main/SampMobile/gtaweap3.ttf",
             "gpu": "all"
         },
         {
             "name": "vehicleAudioSettings.cfg",
             "path": "SAMP\/vehicleAudioSettings.cfg",
             "size": "56871",
-            "url": "https://github.com/James00019/samp-mobile/raw/refs/heads/main/vehicleAudioSettings.cfg",
+            "url": "https://github.com/bikerpassion97/gvn_mobile/raw/refs/heads/main/SampMobile/vehicleAudioSettings.cfg",
             "gpu": "all"
         },
         {
