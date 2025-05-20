@@ -2,7 +2,7 @@
     "app_server_status": true,
     "app_beta_status": false,
     "game_version": "1.0.4",
-    "game_url": "http://gtaviet.net/sampapk/gvn3.apk",
+    "game_url": "http://gtaviet.net/sampapk/mb.apk",
     "samp_list_url": "https://raw.githubusercontent.com/bikerpassion97/gvn_mobile/refs/heads/main/SampMobile/samp_list.json",
     "full_list_url": "https://raw.githubusercontent.com/bikerpassion97/gvn_mobile/refs/heads/main/SampMobile/full_list.json",
     "lite_list_url": "https://raw.githubusercontent.com/bikerpassion97/gvn_mobile/refs/heads/main/SampMobile/lite_list.json"
