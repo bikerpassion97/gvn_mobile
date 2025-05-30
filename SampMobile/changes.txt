@@ -1,0 +1,71 @@
+* Update: v1.0.4(b) *
+
+Bug Fixes
++ Blank dialog (auto force close)
++ Control analog while aiming (can't move)
++ Server closed connection
+
+Added
++ Rcon Command
++ Client Comamnds (/ccmds)
+
+* Update: v1.0.4 *
+
+Bug Fixes
++ dialog crash
++ alt button
++ fps drop while aiming
++ crosshair recoil & alignment
++ passenger button
++ scoreboard crash
++ vehicle audio sync
++ sound when recording
+
+Adjustments
++ New launcher interface
++ Button color
+
+* Update: v1.0.3 *
+
+New Interface
++ scoreboard
++ in-game menu settings
+
+Added
++ default aspect ratio
+
+Bug Fixes
++ fps drop while aiming
++ garage door not opening
++ dialog 'inputtext' returning null value
++ fullscreen issue on newer android version
++ default screen sensitivity : 0.5 > 50.0
++ sampvoice reconnecting issue
++ scoreboard invalid color
++ scoreboard inaccurate data/info
++ ingame button (alt issue)
+
+* Update: v1.0.2 *
+
+Launcher: 
+- New Interface
+
+Game:
+- Fixed passenger button (carjack)
+- Fixed vehicle engine sound
+
+* Update: v1.0.1 *
+
+Launcher:
+- New interface
+- Added option for aspect ratio
+
+Game:
+- Fixed fps drop when aiming
+- Fixed crashes/freezes
+- Added new buttonpanel and dialog
+- Added built in menu (adjust draw distance & aspect ratio)
+- Fixed voice chat (showing even though server doesnt have sampvoice installed)
+- Fixed voice chat icon (not showing after restart)
+- Fixed fps limit
+- Fixed modloader and cleo
