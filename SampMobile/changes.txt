@@ -1,4 +1,4 @@
-* Update: v1.0.4(b) *
+* Update: v1.0.5(b) *
 
 Bug Fixes
 + Blank dialog (auto force close)
