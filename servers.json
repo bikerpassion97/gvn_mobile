@@ -1,7 +1,7 @@
 {
     "servers": [
       {
-        "host": "gtamobile.vn",
+        "host": "sv.gtaviet.net",
         "port": "7777"
       }
     ]
